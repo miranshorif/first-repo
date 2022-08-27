@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\miran shorif\desktop\cse\salary.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586561676 source:c:\users\miran shorif\desktop\cse\salary.c\untitled1.c
+	<stdio.h>
+	<conio.h>
+
